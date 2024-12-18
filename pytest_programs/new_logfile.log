@@ -1,0 +1,12 @@
+ 2024-12-10 10:59:25,673 : INFO : pytest_programs.test_report_logging : This is info
+ 2024-12-10 10:59:25,673 : WARNING : pytest_programs.test_report_logging : This is warning
+ 2024-12-10 10:59:25,673 : ERROR : pytest_programs.test_report_logging :  This is error
+ 2024-12-10 10:59:25,674 : CRITICAL : pytest_programs.test_report_logging : This is very critical
+ 2024-12-11 11:47:31,071 : INFO : root : This is info
+ 2024-12-11 11:47:31,071 : WARNING : root : This is warning
+ 2024-12-11 11:47:31,071 : ERROR : root :  This is error
+ 2024-12-11 11:47:31,071 : CRITICAL : root : This is very critical
+ 2024-12-11 11:48:20,001 : INFO : root : This is info
+ 2024-12-11 11:48:20,001 : WARNING : root : This is warning
+ 2024-12-11 11:48:20,001 : ERROR : root :  This is error
+ 2024-12-11 11:48:20,001 : CRITICAL : root : This is very critical

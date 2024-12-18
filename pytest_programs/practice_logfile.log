@@ -1,0 +1,10 @@
+This is INFO
+This is DEBUG
+This is ERROR
+This is WARNING
+This is CRITICAL
+2024-12-12 11:19:05,243: pytest_programs.test_report_logging: INFO: This is INFO
+2024-12-12 11:19:05,243: pytest_programs.test_report_logging: DEBUG: This is DEBUG
+2024-12-12 11:19:05,243: pytest_programs.test_report_logging: ERROR: This is ERROR
+2024-12-12 11:19:05,243: pytest_programs.test_report_logging: WARNING: This is WARNING
+2024-12-12 11:19:05,243: pytest_programs.test_report_logging: CRITICAL: This is CRITICAL
